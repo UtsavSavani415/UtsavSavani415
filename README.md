@@ -10,9 +10,9 @@
 
 💼 With a proven track record in collaborative teams, I excel at solving complex challenges with fellow developers.
 
-🌟  Feel free to check out my work on LinkedIn [https://www.linkedin.com/in/utsav-s-53ba4b1a6/]
+🌟  Feel free to check out my work on LinkedIn https://www.linkedin.com/in/utsavsavani
 
-🤝  Let's connect and turn your ideas into reality.  and reach me at [utsav.work415@gmail.com]. Cheers to coding! 🚀
+🤝  Let's connect and turn your ideas into reality.  and reach me at utsav.work415@gmail.com. Cheers to coding! 🚀
 
 
 <!---
